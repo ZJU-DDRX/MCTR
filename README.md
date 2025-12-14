@@ -1,18 +1,18 @@
 # MCTR 
 <table>
   <tr>
-    <td align="center">
-      <img src="./first_vision.gif" height="300" />
+    <td align="center" valign="top">
+      <img src="./first_vision.gif" height="300" style="display: block; margin: 0 auto;" />
       <br/>
       <sub>first_vision</sub>
     </td>
-    <td align="center">
-      <img src="./third_vision.gif" height="300" />
+    <td align="center" valign="top">
+      <img src="./third_vision.gif" height="300" style="display: block; margin: 0 auto;" />
       <br/>
       <sub>third_vision</sub>
     </td>
-    <td align="center">
-      <img src="./digital_vision.gif" height="300" />
+    <td align="center" valign="top">
+      <img src="./digital_vision.gif" height="300" style="display: block; margin: 0 auto;" />
       <br/>
       <sub>digital_vision</sub>
     </td>
