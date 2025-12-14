@@ -1,0 +1,3 @@
+<launch>
+  <node name="full_throttle_controller" pkg="carla_full_throttle" type="full_throttle_node.py" output="screen"/>
+</launch>

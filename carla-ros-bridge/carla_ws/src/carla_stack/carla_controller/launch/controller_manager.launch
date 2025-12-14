@@ -1,0 +1,10 @@
+<launch>
+  <arg name="ctrl_algo" default="DELAUNAY_FTG" />
+
+  <param name="controller_manager/ctrl_algo" value="$(arg ctrl_algo)" />
+
+  <node name="controller_manager"
+      pkg="carla_controller"
+      type="controller_manager.py"
+      output="screen"/>
+</launch>

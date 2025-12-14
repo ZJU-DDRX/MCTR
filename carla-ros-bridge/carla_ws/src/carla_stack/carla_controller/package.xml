@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>carla_controller</name>
+  <version>0.1.0</version>
+  <description>Delaunay FTG control module for CARLA</description>
+
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>ackermann_msgs</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>visualization_msgs</exec_depend>
+
+  <export></export>
+</package>
