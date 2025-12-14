@@ -1,18 +1,24 @@
 # MCTR 
-<div style="display: flex; justify-content: space-around; text-align: center;">
-  <div style="flex: 1; margin: 10px;">
-    <img src="./first_vision.gif" height="300" alt="first_vision" />
-    <figcaption>first_vision</figcaption>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="./third_vision.gif" height="300" alt="third_vision" />
-    <figcaption>third_vision</figcaption>
-  </div>
-  <div style="flex: 1; margin: 10px;">
-    <img src="./digital_vision.gif" height="300" alt="digital_vision" />
-    <figcaption>digital_vision</figcaption>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./first_vision.gif" height="300" />
+      <br/>
+      <sub>first_vision</sub>
+    </td>
+    <td align="center">
+      <img src="./third_vision.gif" height="300" />
+      <br/>
+      <sub>third_vision</sub>
+    </td>
+    <td align="center">
+      <img src="./digital_vision.gif" height="300" />
+      <br/>
+      <sub>digital_vision</sub>
+    </td>
+  </tr>
+</table>
+
 More details please see ：
 
 >bilibili:
