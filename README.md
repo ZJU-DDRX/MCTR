@@ -1,16 +1,16 @@
 # MCTR 
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="./first_vision.gif" height="300"><br>
+    <td align="center" height="350">
+      <img src="./first_vision.gif" height="300" /><br>
       <sub>first_vision</sub>
     </td>
-    <td align="center" valign="top">
-      <img src="./third_vision.gif" height="300"><br>
+    <td align="center" height="350">
+      <img src="./third_vision.gif" height="300" /><br>
       <sub>third_vision</sub>
     </td>
-    <td align="center" valign="top">
-      <img src="./digital_vision.gif" height="300"><br>
+    <td align="center" height="350">
+      <img src="./digital_vision.gif" height="300" /><br>
       <sub>digital_vision</sub>
     </td>
   </tr>
