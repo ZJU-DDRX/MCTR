@@ -21,7 +21,7 @@
 
 More details please see ：
 
->bilibili:
+>bilibili:https://www.bilibili.com/video/BV1LdqWBXEBo/?vd_source=3484564f7d7d8958edef5897d0494ad6
 
 >youtube:
 
